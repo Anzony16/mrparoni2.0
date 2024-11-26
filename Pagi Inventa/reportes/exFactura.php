@@ -16,11 +16,11 @@ require('Factura.php');
 //establecemos los datos de la empresa
 $logo="logo.png";
 $ext_logo="png";
-$empresa="Tecnology Center S.A.C.";
-$documento="100404235001";
-$direccion="Calle los alpes 120";
-$telefono="0960125359";
-$email="xp_ppjc_com@gmail.com";
+$empresa="Corporación Aroni";
+$documento="20451682637";
+$direccion="Av Jose Leal 365";
+$telefono=" ";
+$email="soporte@corporacionaroni.com";
 
 //obtenemos los datos de la cabecera de la venta actual
 require_once "../modelos/Venta.php";
